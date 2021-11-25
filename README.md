@@ -161,6 +161,7 @@ Emoji:
     Nickname: Korn
     Age: 20
     Faculty: CAMT
+    Student ID: 632115028
     
 ## Nantipak Tathong ##
     Nickname: Auto
