@@ -162,5 +162,10 @@ Emoji:
     Age: 20
     Faculty: CAMT
     
+## Nantipak Tathong ##
+    Nickname: Auto
+    Age: 19
+    Faculty: CAMT
+    Student ID: 632115026
 
 
