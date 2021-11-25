@@ -157,3 +157,10 @@ Emoji:
 
 :mask:
 
+### Burussakorn Ruangon ###
+    Nickname: Korn
+    Age: 20
+    Faculty: CAMT
+    
+
+
